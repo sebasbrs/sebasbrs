@@ -1,11 +1,11 @@
-<p align="center">
-    👋 Hey, Welcome to my GitHub page.
+<h2 align="center">
+    Welcome to my GitHub page.
+   </h2>
+   <p align="center">
+     👨‍💻 My name is Sebastian Godoy, also known as Sebasbrs!
    </p>
    <p align="center">
-     👨‍💻 My name is Amin Mahmoudi, also known as Amin MasterkinG!
-   </p>
-   <p align="center">
-     💼 I'm currently working as a freelancer.
+     💼 I'm currently working as Data Engineer.
    </p>
    <p align="center">
      <a href="https://instagram.com/Sebas_Godoy1/" target="_blank">
