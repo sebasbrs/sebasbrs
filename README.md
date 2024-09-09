@@ -21,10 +21,10 @@
       
    <p align="center">
      <a href="https://github.com/sebasbrs" target="_blank">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebasbrs&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebasbrs&show_icons=true&theme=cobalt" alt="Sebasbrs's github stats" />
      </a>
      <a href="https://github.com/MasterkinG32" target="_blank">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasbrs&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasbrs&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="Sebasbrs's github stats" />
      </a>
    <p>
    
@@ -33,11 +33,6 @@
    </p>
    
    <p align="center">
-     <img align="center" src="https://raw.githubusercontent.com/sebasbrs/sebasbrs/master/github-metrics.svg" />
+     <img align="center" src="https://raw.githubusercontent.com/sebasbrs/sebasbrs/main/github-metrics.svg" />
    </p>
-   
-   <p align="center">
-     <a href="https://github.com/sebasbrs" target="_blank">
-     <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="Sebasbrs's github views" />
-     </a>
-   </p>
+
