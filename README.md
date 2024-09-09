@@ -1,16 +1,43 @@
-## Hi there 👋
-
-<!--
-**sebasbrs/sebasbrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    👋 Hey, Welcome to my GitHub page.
+   </p>
+   <p align="center">
+     👨‍💻 My name is Amin Mahmoudi, also known as Amin MasterkinG!
+   </p>
+   <p align="center">
+     💼 I'm currently working as a freelancer.
+   </p>
+   <p align="center">
+     <a href="https://instagram.com/Sebas_Godoy1/" target="_blank">
+       <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
+     </a>
+     <a href="https://discordapp.com/users/sebasbrs32/" target="_blank">
+       <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
+     </a>
+     <a href="linkedin.com/in/joan-sebastian-godoy-duarte-90640ba5/" target="_blank">
+       <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white">
+     </a>
+   </p>
+      
+   <p align="center">
+     <a href="https://github.com/sebasbrs" target="_blank">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebasbrs&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
+     </a>
+     <a href="https://github.com/MasterkinG32" target="_blank">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasbrs&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" />
+     </a>
+   <p>
+   
+   <p align="center">
+     <img align="center" src="https://github-profile-trophy.vercel.app/?username=sebasbrs&theme=onedark" />
+   </p>
+   
+   <p align="center">
+     <img align="center" src="https://raw.githubusercontent.com/sebasbrs/sebasbrs/master/github-metrics.svg" />
+   </p>
+   
+   <p align="center">
+     <a href="https://github.com/sebasbrs" target="_blank">
+     <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="Sebasbrs's github views" />
+     </a>
+   </p>
